@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .article-head{
 	font-family: courier;
 	font-size: 50px;
@@ -34,4 +35,42 @@
 	font-family: times new roman;
 	border-style: dotted;
 	padding: 5px;
+=======
+.article-head{
+	font-family: courier;
+	font-size: 50px;
+	font-weight: bold;
+	text-align: center;
+	border-style: double;
+	border-radius: 10px;
+	border-width: thick;
+	border-color: blue;
+	padding: 30px;
+	background-color: lightblue;
+}
+
+.top-link{
+	text-align: center;
+	background-color: lightgrey;
+	border-style: solid;
+	border-color: blue;
+	border-width: thick;
+	border-right: 10px lightblue;
+	border-left: 10px lightblue;
+}
+
+.painting{
+	border-style: solid;
+	border-color: blue;
+	border-radius: 3px;
+	background-color: lightgrey;
+	padding: 3px;
+}
+
+.painting-related{
+	text-align: center;
+	font-family: times new roman;
+	border-style: dotted;
+	padding: 5px;
+>>>>>>> d43b1866d270df9c5d025356e043c8b2289e8ca9
 }
